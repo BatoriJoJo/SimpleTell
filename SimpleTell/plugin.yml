@@ -1,0 +1,6 @@
+---
+name: SimpleTell
+version: 1.0.0
+main: Batori\Main
+api: 3.22.1
+...
